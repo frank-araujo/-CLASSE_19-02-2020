@@ -1,6 +1,6 @@
 <?php
 
 include('/conexion/DB.php');
-$conexion = new DB('localhost','root','','db_academica');
+$conexion = new Conexion('localhost','root','','db_academica');
 
 ?>
