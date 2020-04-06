@@ -1,5 +1,8 @@
 <?php
 
+/**
+ * Clase de conexion al servidor de BD
+ */
 class Conexion{
     private $conexion='', $result='';
 
